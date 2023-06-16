@@ -64,7 +64,7 @@ init_image := data.policy["com.styra.kubernetes.mutating"].rules.rules.stable_ch
 #   - name: "label"
 #     label: "Label to check"
 #     type: string
-#     default: istio-injection
+#     default: inject-opa
 #   - name: "use-socket"
 #     label: "Use Socket"
 #     type: string
